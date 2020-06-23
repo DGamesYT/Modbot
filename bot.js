@@ -79,4 +79,5 @@ client.on("message", msg => {
   }
 });
 
-client.login(Your token here!);
+client.login(NzI0ODMwOTY5OTQ0ODY2OTA2.XvF6Eg.mxbdmvyEvYkPJfS-y4eozfIVaPk
+);
